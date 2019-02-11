@@ -1,11 +1,11 @@
 # Site settings
 author: Pedro Jofre Lora
-title: 
+title: + & x
 header-img: img/home-bg.png
 email: pjofrelora@gmail.com
 copyright_name: Pedro Jofre Lora
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Everything and Nothing
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  pjofrelora
