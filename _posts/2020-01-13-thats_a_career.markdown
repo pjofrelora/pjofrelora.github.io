@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "That's a career!?"
-date:       2020-01-14 00:04:11 +0000
+date:       2020-01-13 19:04:12 -0500
 permalink:  thats_a_career
 ---
 
